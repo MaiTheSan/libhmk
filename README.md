@@ -84,3 +84,12 @@ See [`hardware/stm32f446xx`](hardware/stm32f446xx/) and [`src/hardware/stm32f446
 - [@heiso](https://github.com/heiso/) for his [macrolev](https://github.com/heiso/macrolev) and his helpfulness throughout the development process.
 - [Wooting](https://wooting.io/) for pioneering Hall-effect gaming keyboards and introducing many advanced features based on analog input.
 - [GEONWORKS](https://geon.works/) for the Venom 60HE PCB and inspiring the web configurator.
+
+
+
+##Todo port AT32F405
+- [ ] **Analog**
+- [ ] **board**
+- [x] **crc32**
+- [ ] **flash**
+- [ ] **timer**
