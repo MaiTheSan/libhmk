@@ -91,5 +91,5 @@ See [`hardware/stm32f446xx`](hardware/stm32f446xx/) and [`src/hardware/stm32f446
 - [ ] **Analog**
 - [ ] **board**
 - [x] **crc32**
-- [ ] **flash**
+- [x] **flash**
 - [ ] **timer**

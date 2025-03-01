@@ -20,6 +20,7 @@
 
 void crc32_init(void) {
   /* Enable CRC clock if necessary (not explicitly required in AT32) */
+  crm_periph_clock_enable(CRM_CRC_PERIPH_CLOCK, TRUE);
   crc_data_reset();  // Reset the CRC unit
 }
 

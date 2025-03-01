@@ -121,8 +121,7 @@ void board_init(void) {
 
 void board_error_handler(void) {
   __disable_irq();
-  while (1)
-    ;
+  while (1);
 }
 
 void board_reset(void) { NVIC_SystemReset(); }
