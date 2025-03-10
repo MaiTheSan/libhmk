@@ -60,4 +60,4 @@ void board_reset(void);
  *
  * @return Length of the serial number in characters
  */
-uint32_t board_serial(uint16_t *buf);
+//uint32_t board_serial(uint16_t *buf);
